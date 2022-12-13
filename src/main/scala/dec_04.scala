@@ -1,6 +1,3 @@
-import scala.collection.immutable.HashMap
-import scala.collection.mutable
-import scala.util.control.Breaks._
 // --- Day 4: Camp Cleanup ---
 // https://adventofcode.com/2022/day/4
 
